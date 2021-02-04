@@ -1,6 +1,6 @@
 ECE 4122 Final Project
 Author: Zechuan Ding
-
+Date: 2020/12/1
 **This program needs to be compiled and run using Visual Studio IDE.**
 
 Library used: <GL/glut.h>
